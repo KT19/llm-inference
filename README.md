@@ -1,7 +1,7 @@
-# Inference Time Improvement for MCTS
+# Improving Inference Quality in LLMs through Monte Carlo Tree Search (MCTS)
 
 ## Overview
-This repository implements a method for improving inference time in the context of Monte Carlo Tree Search (MCTS) applied to language model token generation. The repository demonstrates two approaches:
+This repository presents a method for enhancing the inference quality of Large Language Models (LLMs) by applying Monte Carlo Tree Search (MCTS) to the token generation process. The repository demonstrates two approaches:
 - **MCTS-based token generation**: where tokens are generated using MCTS.
 - **Standard token generation**: for comparison with the MCTS method.
   
